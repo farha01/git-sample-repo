@@ -7,3 +7,21 @@ git commit -m ""
 git log
 Git diff <filename>
 
+___________________________________________________________________________________________________________-
+
+Scenario 1:
+First Release - Done
+Second Release
+       2 Features
+       2 People
+Third Release
+      1 Feature
+      1 Person
+
+Scenario 2 :
+Two people
+
+Person A - Enhance the Framework
+Person B - Automate the test cases
+
+

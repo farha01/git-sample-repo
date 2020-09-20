@@ -1,9 +1,31 @@
-git status-- prints the status of the git repository
-git init---- initialise the gut repository
-git config ----global user.name "Farah"
-git config ----global.user.email farha08@gmail.com
-git add
-git commit -m ""
-git log
-Git diff <filename>
+git status-------------------------------------- prints the status of the git repository
+git init---------------------------------------- initialise the gut repository
+git config --------------------------------------global user.name "Farah"
+git config --------------------------------------global.user.email farha08@gmail.com
+git add -----------------------------------------add file to staging environment
+git commit -m "" --------------------------------commit file to local Git Repository
+git log -----------------------------------------check file log history
+git diff <filename>------------------------------check changes made to file with existing file
+git remote add origin <GitHub Repository url> ---Establish connection to the remote GitHub Repository
+git push origin master --------------------------pust to master branch
+
+_____________________________________________________________________________________________________
+
+Scenario 1:
+First Release - Done
+Second Release
+       2 Features
+       2 People
+Third Release
+      1 Feature
+      1 Person
+
+Scenario 2 :
+Two people
+
+Person A - Enhance the Framework
+Person B - Automate the test cases
+
+
+
 
